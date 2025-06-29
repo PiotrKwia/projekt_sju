@@ -13,7 +13,7 @@ style: |
 # Raport z projektu
 ## Sieć Jako Usługa
 
-**Obliczenia kwantowe z IBM Qiskit**
+**Projekt kontenera developerskiego z konfiguracją przepływu CI/CD**
 
 ---
 
@@ -192,7 +192,7 @@ graph TD
     F -->|Błąd| H[Błąd kompilacji]
     G --> I[Kontener developerski gotowy]
     I --> J[Uruchomienie Jupyter Notebooks]
-    J --> K[Praca rozwojowa w środowisku]
+    J --> K[Praca w środowisku]
 ```
 
 </div>
