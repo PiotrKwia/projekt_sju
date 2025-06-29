@@ -105,7 +105,7 @@ Po wykonaniu tych akcji obraz bez błędów został ponownie zbudowany
 **Rozszerzenia dodane w VScode:** Markdown All in One, Marp for VS Code, GitHub Actions
 ---
 
-## GitHub Actions – CI/CD Pipeline
+# GitHub Actions – CI/CD Pipeline
 
 - Utworzono folder `.github/workflows` w katalogu głównym projektu.
 - Dodano plik `docker-build.yml` konfiguracyjny definiujący prosty pipeline CI.
