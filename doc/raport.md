@@ -40,9 +40,6 @@ git push -u origin main
 
 W rezultacie otrzymano działające środowisko gotowe do modyfikacji
 
-<!--
-1. Ważne jest sprawdzenie poprawności budowania przed dalszymi krokami
--->
 
 ---
 
@@ -68,10 +65,7 @@ RUN pip install --no-cache-dir \
   cryptography
 ```
 Po wykonaniu tych akcji obraz bez błędów został ponownie zbudowany
-<!--
-1. Instalacja rozszerzenia Docker w VS Code bardzo pomaga
-2. Każda modyfikacja wymaga ponownego budowania obrazu
--->
+
 ---
 # Konfiguracja kontenera deweloperskiego
 ## Plik `.devcontainer/devcontainer.json`
@@ -222,10 +216,8 @@ graph TD
 - Dzięki integracji z Jupyter możliwa była bezpośrednia wizualizacja wyników i interaktywna analiza danych.
 
 <!--
-Komentarz: Pokazano jak uruchamiane były notebooki w VSCode zamiast na stronie IBM Quantum.
+Pokazano jak uruchamiane były notebooki w VSCode zamiast na stronie IBM Quantum.
 -->
-
-
 
 ---
 
@@ -247,12 +239,6 @@ Komentarz: Pokazano jak uruchamiane były notebooki w VSCode zamiast na stronie 
 
 - Projekt mógłby zawierać więcej przykładów wykorzystania zadań kwantowych
 - Warto rozważyć szerszą automatyzację testów i walidacji konfiguracji środowiska
-
-<!--
-1. Projekt dobrze ilustruje wykorzystanie DevOps w środowisku edukacyjnym.
-2. Kluczową zaletą jest automatyzacja oraz przenośność środowiska roboczego.
--->
-
 
 ---
 
