@@ -221,12 +221,6 @@ graph TD
 - Notebooks wykorzystywały bibliotekę `Qiskit` do wysyłania zadań na komputer kwantowy IBM Quantum.
 - Dzięki integracji z Jupyter możliwa była bezpośrednia wizualizacja wyników i interaktywna analiza danych.
 
-<div class="flex justify-center">
-
-![w:500](https://raw.githubusercontent.com/microsoft/vscode-jupyter/main/images/jupyter-banner.png)
-
-</div>
-
 <!--
 Komentarz: Pokazano jak uruchamiane były notebooki w VSCode zamiast na stronie IBM Quantum.
 -->
